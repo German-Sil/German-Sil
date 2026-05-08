@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Germán D. Silva and I'm a Telmatologist, Coastal Ecologist, and Remote Sensing Scientist.
+- 👋 Hi, I’m Germán D. Silva and I'm a Telmatologist, Coastal Geographer, and Remote Sensing Scientist.
   
 - 👀 My research tries to answer the question: "How do coastal wetlands respond to their changing environment?" I apprach this question through remote sensing, field, and laboratory techniques to gain insights on the biophysical processes of coastal wetlands. I largely focus on wetland landscape and spatial response to disturbance and environmental change. Currently, I am studying coastal wetland soil salinity and the impacts it has on plants through experimentation and imaging spectroscopy remote sensing. Previous work has looked at plant response to drought, landcover change following debris flows, and soil property influence on plant establishment success.
   
